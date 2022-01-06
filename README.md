@@ -8,3 +8,6 @@ This is a demo project to teach github
 Για τους dream team δεν μιλάς;
 
 Οι μόνοι νικητές είναι οι MOVING MINDS!!!!!
+
+## Git
+Αυτά έχουν γραφεί από το VS Code!
