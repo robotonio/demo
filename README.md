@@ -12,4 +12,4 @@ This is a demo project to teach github
 ## Git
 Αυτά έχουν γραφεί από το VS Code!
 
-# Hi!
+# Hi! ---
